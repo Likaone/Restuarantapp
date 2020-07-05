@@ -15,6 +15,7 @@ import CartScreen from './src/screens/CartScreen';
 import ProfileScreen from './src/screens/ProfileScreen';
 import SearchScreen from './src/screens/Searchscreen';
 
+
 const Tab = createBottomTabNavigator();
 
 const Stack = createStackNavigator();

@@ -1,10 +1,5 @@
 import React from 'react';
 
-/**
- *
- *  Same Popular Items
- *
- */
 
 import {
   View,
